@@ -1,0 +1,8 @@
+[allias]
+        allias.history=log--graph
+[user]
+        user.name=sergei
+        user.email=witcher11@yandex.ru
+[init]
+        init.defaultbranch=sergei
+
