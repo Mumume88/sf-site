@@ -1,9 +1,9 @@
 [allias]
-        allias.history=log--graph
+allias.history=log--graph
 [user]
-        user.name=sergei
-        user.email=witcher11@yandex.ru
+user.name=sergei
+user.email=witcher11@yandex.ru
 [init]
-        init.defaultbranch=sergei
+init.defaultbranch=sergei
 [core]
-        editor=emacs
+editor=emacs
