@@ -5,4 +5,5 @@
         user.email=witcher11@yandex.ru
 [init]
         init.defaultbranch=sergei
-
+[core]
+        editor=emacs
